@@ -1,0 +1,7 @@
+{
+  "name": "RIjantuby AI",
+  "description": "An AI-powered application with a ChatGPT-like text interface and an advanced voice interaction mode, allowing users to communicate with the RIjantuby AI through both text and speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
